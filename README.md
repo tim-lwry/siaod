@@ -26,3 +26,7 @@
 Практическая работа № 7  
 Линейные динамические списки  
 [Вариант 4](https://github.com/tim-lwry/siaod/blob/main/p7.1.cpp)
+  
+Практическая работа № 8  
+Линейный список стек и его применение  
+[Вариант 2](https://github.com/tim-lwry/siaod/blob/main/pr_8.cpp)  

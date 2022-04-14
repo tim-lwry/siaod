@@ -9,19 +9,18 @@
 
 Практическая работа № 3  
 Алгоритмы внешней сортировки массивов  
-3.1	Простое слияние (Merge sort)  
+[3.1	Простое слияние](https://github.com/tim-lwry/siaod/blob/main/MergeSortCPP.cpp)  
   
 Практическая работа № 4    
-Алгоритм поиска в неотсортированных массивах  
-(CPPSearchInUnsorted.cpp)  
+[Алгоритм поиска в неотсортированных массивах](https://github.com/tim-lwry/siaod/blob/main/CPPSearchInUnsorted.cpp)  
   
 Практическая работа № 5    
 Алгоритм поиска в отсортированных массивах  
-5.1	Двоичного поиска (CPPBinarySearch.cpp)  
+[5.1	Двоичного поиска](https://github.com/tim-lwry/siaod/blob/main/CPPBinarySearch.cpp)  
   
 Практическая работа № 6    
 Алгоритмы поиска строк в тексте  
-6.2	Кнута-Морриса-Пратта (CPPSubstringSearch.cpp)  
+[6.2	Кнута-Морриса-Пратта](https://github.com/tim-lwry/siaod/blob/main/CPPSubstringSearch.cpp)  
   
 Практическая работа № 7  
 Линейные динамические списки  

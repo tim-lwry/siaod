@@ -30,3 +30,7 @@
 Практическая работа № 8  
 Линейный список стек и его применение  
 [Вариант 2](https://github.com/tim-lwry/siaod/blob/main/pr_8.cpp)  
+  
+Практическая работа № 9  
+Линейный список. Очередь.  
+[Вариант 2](https://github.com/tim-lwry/siaod/blob/main/Pr9_v2.cpp)  

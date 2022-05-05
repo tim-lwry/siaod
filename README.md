@@ -35,4 +35,7 @@
 [Вариант 2](https://github.com/tim-lwry/siaod/blob/main/Pr9_v2.cpp)  
   
 Практическая работа № 10  
-[Бинарное дерево поиска. AVL дерево.](https://github.com/tim-lwry/siaod/blob/main/BinaryTree.cpp) 
+[Бинарное дерево поиска. AVL дерево.](https://github.com/tim-lwry/siaod/blob/main/BinaryTree.cpp)  
+  
+Практическая работа № 11  
+[Хеширование - прямой доступ к данным](https://github.com/tim-lwry/siaod/blob/main/HashTable.cpp)  

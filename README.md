@@ -40,5 +40,8 @@
 Практическая работа № 11  
 [Хеширование - прямой доступ к данным](https://github.com/tim-lwry/siaod/blob/main/HashTable.cpp)  
   
+Практическая работа № 15  
+[Стратегии и методы построения алгоритмов. Вар. 2](https://github.com/tim-lwry/siaod/blob/main/MatrixMultiplication15.cpp)  
+  
 Практическая работа № 16  
 [Метод линейного программирования. Вар. 3](https://github.com/tim-lwry/siaod/blob/main/LinearPrImptask.cpp)  

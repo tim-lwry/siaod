@@ -40,6 +40,15 @@
 Практическая работа № 11  
 [Хеширование - прямой доступ к данным](https://github.com/tim-lwry/siaod/blob/main/HashTable.cpp)  
   
+Практическая работа № 12  
+[Внешние структуры данных - файлы и алгоритмы их обработки. Вар. 2](https://github.com/tim-lwry/siaod/blob/main/Bank12.cpp)  
+  
+Практическая работа № 13  
+[Основные алгоритмы работы с графами. Вар. 2](https://github.com/tim-lwry/siaod/blob/main/Graphs13.cpp)  
+  
+Практическая работа № 14  
+[Алгоритмы сжатия и кодирования данных.](https://github.com/tim-lwry/siaod/blob/main/Huffman14.cpp)  
+  
 Практическая работа № 15  
 [Стратегии и методы построения алгоритмов. Вар. 2](https://github.com/tim-lwry/siaod/blob/main/MatrixMultiplication15.cpp)  
   
